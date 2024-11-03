@@ -2,6 +2,8 @@
 
 **Binaflow** is a WebSocket-based message exchange solution designed to facilitate efficient, structured communication between clients and servers using serialized protobuf messages. Inspired by REST API conventions, Binaflow supports a request-response pattern with message types and unique message IDs to enable organized, asynchronous communication.
 
+Perfect for tasks where data transmission speed is crucial, such as games, trading tools, etc...
+
 ## Key Features
 
 - **WebSocket Communication**: Establishes real-time, bidirectional communication between clients and servers.
